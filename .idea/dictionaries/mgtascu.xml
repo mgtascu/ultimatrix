@@ -2,6 +2,11 @@
   <dictionary name="mgtascu">
     <words>
       <w>balancer</w>
+      <w>idescription</w>
+      <w>iname</w>
+      <w>iprice</w>
+      <w>itype</w>
+      <w>postgresql</w>
     </words>
   </dictionary>
 </component>
