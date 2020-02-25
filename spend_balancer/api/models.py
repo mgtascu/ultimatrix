@@ -2,7 +2,6 @@ from django.db import models
 
 
 class ItemType(models.Model):
-    iid = models.IntegerField(default=1, primary_key=True, null=False, unique=True)
     itype = models.CharField(max_length=50, null=False)
 
 

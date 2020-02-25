@@ -1,3 +1,6 @@
 from django.contrib import admin
 
-# Register your models here.
+from .models import ItemType, AcqItem
+
+admin.site.register(ItemType)
+admin.site.register(AcqItem)
